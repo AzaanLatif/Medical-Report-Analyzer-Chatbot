@@ -56,10 +56,7 @@ The terminal will show a local URL (e.g., http://127.0.0.1:7860) — open it in 
 # 📁 File Structure
 medical-report-analyzer/
 
-├── backend/               # Backend code (Flask API, chatbot logic, PDF parsing)  
-├── faiss_index/           # FAISS vector index files for semantic search  
-├── venv/                  # Python virtual environment   
-├── .gitignore             # Ignored files & folders  
+├── backend/               # Backend code (Flask API, chatbot logic, PDF parsing)   
 ├── requirements           # Python dependencies  
 
 
