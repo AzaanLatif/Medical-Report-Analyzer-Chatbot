@@ -1,0 +1,8 @@
+flask
+langchain
+openai
+faiss-cpu
+pdfplumber
+pymupdf
+pymongo
+python-dotenv
